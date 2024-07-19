@@ -13,7 +13,8 @@
   </div>
 
   ## Programming Skills 📚
-  [![My Skills](https://skillicons.dev/icons?i=haskell)](https://skillicons.dev)
+  * Haskell
+  * C
 
   ## Contact me 📬
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoteixeira9053@gmail.com)
