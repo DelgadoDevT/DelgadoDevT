@@ -15,6 +15,7 @@
   ## Programming Skills 📚
   * Haskell
   * C
+  * Python
 
   ## Contact me 📬
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoteixeira9053@gmail.com)
