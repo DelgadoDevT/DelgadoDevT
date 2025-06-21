@@ -1,7 +1,7 @@
 <div style="display: flex; flex-direction: column; align-items: flex-start; margin-top: 20px;">
   
   ## Greetings! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Wave Emoji" width="24" height="24">
-  I'm João Delgado, currently immersed in the first year of Computer Science and Engineering studies at Universidade do Minho. 
+  I'm João Delgado, currently immersed in the second year of Computer Science and Engineering studies at Universidade do Minho. 
 
   <div style="display: flex; justify-content: flex-start; align-items: center; margin-top: 20px;">
     <a href="http://www.github.com/DelgadoDevT" style="margin-right: 50px;">
