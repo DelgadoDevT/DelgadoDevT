@@ -51,6 +51,17 @@
       <p align="center">High-performance functional desktop GUI for unit conversion and data processing.</p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center"><a href="https://github.com/simaoaraujo27/BugsByte2026" style="text-decoration: none; color: inherit;">🍎 Nutriventures</a></h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+      </div>
+      <p align="center">Award-winning AI nutrition platform featuring voice tracking, automatic macro calculation, smart photo-to-recipe generation, and much more! Developed for the Bugsbyte 2026 Hackathon.</p>
+    </td>
+  </tr>
 </table>
 </div>
 
